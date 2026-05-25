@@ -20,3 +20,5 @@ pip install --upgrade pip
 termux-setup-storage
 chmod +x termux.py
 python termux.py
+chmod +x termux.py
+python termux.py
